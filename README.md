@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danilum
 - 👀 I’m interested in Quality Assurance sphere
-- 🌱 I’m currently learning Tests automation
+- 🌱 I’m Autotester
 - 📫 How to reach me: @Danilka9 in telegram
 
 <!---
